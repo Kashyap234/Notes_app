@@ -21,7 +21,7 @@ This is a simple Android Notes App built with Java and Firebase Authentication. 
 
 # **How to Run**
 
-**1. Clone the Repository:** git clone https://github.com/yourusername/notesapp.git
+**1. Clone the Repository:** git clone https://github.com/Kashyap234/notesapp.git
 
 **2. Open in Android Studio:** Open the cloned project in Android Studio.
 
